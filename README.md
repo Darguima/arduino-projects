@@ -17,10 +17,7 @@ Welcome to <u>Arduino Projects</u>, the place where I store all my electronic ci
 In this section you have a complete list of everything I've ever done. Try to choose one of them, read the project documentation, watch the simulation and try it for yourself.
 
 001. [Hello World Led](https://github.com/Darguima/arduino-projects/tree/master/001_hello_world_led)
-
-### Technologies already used 👨‍💻
-
-* Arduino Uno
+002. [Measuring with a Sonar](https://github.com/Darguima/arduino-projects/tree/master/002_measuring_with_a_sonar)
 
 ### Why I created this repository
 
