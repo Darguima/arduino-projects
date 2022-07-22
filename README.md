@@ -16,8 +16,15 @@ Welcome to <u>Arduino Projects</u>, the place where I store all my electronic ci
 
 In this section you have a complete list of everything I've ever done. Try to choose one of them, read the project documentation, watch the simulation and try it for yourself.
 
-001. [Hello World Led](https://github.com/Darguima/arduino-projects/tree/master/001_hello_world_led)
-002. [Measuring with a Sonar](https://github.com/Darguima/arduino-projects/tree/master/002_measuring_with_a_sonar)
+___ 
+
+3\. [Bench Power Supply (DIY)](https://github.com/Darguima/arduino-projects/tree/master/003_bench_power_supply_DIY)
+
+2\. [Measuring with a Sonar](https://github.com/Darguima/arduino-projects/tree/master/002_measuring_with_a_sonar)
+
+1\. [Hello World Led](https://github.com/Darguima/arduino-projects/tree/master/001_hello_world_led)
+
+___
 
 ### Why I created this repository
 
