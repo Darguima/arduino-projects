@@ -16,7 +16,10 @@ Welcome to <u>Arduino Projects</u>, the place where I store all my electronic ci
 
 In this section you have a complete list of everything I've ever done. Try to choose one of them, read the project documentation, watch the simulation and try it for yourself.
 
-___ 
+_
+5\. [0.91 inches OLed](https://github.com/Darguima/arduino-projects/tree/master/005_91_centiinch_oled)
+
+4\. [Communication between arduinos](https://github.com/Darguima/arduino-projects/tree/master/004_communication_between_arduinos)
 
 3\. [Bench Power Supply (DIY)](https://github.com/Darguima/arduino-projects/tree/master/003_bench_power_supply_DIY)
 
