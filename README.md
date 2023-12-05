@@ -18,6 +18,8 @@ In this section you have a complete list of everything I've ever done. Try to ch
 
 ___
 
+6\. [Measuring Resistances](https://github.com/Darguima/arduino-projects/tree/master/006_measuring_resistances)
+
 5\. [0.91 inches OLed](https://github.com/Darguima/arduino-projects/tree/master/005_91_centiinch_oled)
 
 4\. [Communication between arduinos](https://github.com/Darguima/arduino-projects/tree/master/004_communication_between_arduinos)
