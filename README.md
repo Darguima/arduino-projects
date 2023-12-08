@@ -18,6 +18,8 @@ In this section you have a complete list of everything I've ever done. Try to ch
 
 ___
 
+7\. [ESP32 LEDs & Touch Sensor](https://github.com/Darguima/arduino-projects/tree/master/007_esp32_leds_and_touch)
+
 6\. [Measuring Resistances](https://github.com/Darguima/arduino-projects/tree/master/006_measuring_resistances)
 
 5\. [0.91 inches OLed](https://github.com/Darguima/arduino-projects/tree/master/005_91_centiinch_oled)
